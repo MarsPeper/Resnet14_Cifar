@@ -1,1 +1,1 @@
-<a href="Resnet14_Cifar.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+[Resnet14 - CIFAR10 - Loc Nguyen - 85.7%](Resnet14_Cifar.pdf)
